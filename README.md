@@ -1,7 +1,7 @@
 # BytePC
 
 <p align="center">
-<img src="images/i.png" width="100%">
+<img src="images/i.png" width="50%">
 </p>
 
 ## فكرة التطبيق
