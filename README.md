@@ -6,7 +6,7 @@
 
 ## فكرة التطبيق
 
-<br>
+<br><br>
 <div dir="rtl" align="center">
 <span dir="ltr">BytePC</span>
   هو نموذج لتطبيق متجر متخصص في بيع وتجميع قطع الكمبيوتر.
