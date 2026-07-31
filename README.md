@@ -4,7 +4,7 @@
 <img src="images/i.png" width="50%">
 </p>
 
-## فكرة التطبيق
+<h2 dir="rtl">فكرة التطبيق</h2>
 
 <br><br>
 <div dir="rtl" align="center">
