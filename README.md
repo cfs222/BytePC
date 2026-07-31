@@ -4,7 +4,7 @@
 <img src="images/i.png" width="50%">
 </p>
 
-<h3 align="center">فكرة التطبيق</h3>
+<h3>فكرة التطبيق</h3>
 
 <div dir="rtl" align="center">
 <span dir="ltr">BytePC</span>
