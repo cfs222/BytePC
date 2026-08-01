@@ -34,6 +34,12 @@
 <img src="images/i6.png" width="250">
 </p>
 
+<p align="center">
+<img src="images/i7.png" width="250">
+<img src="images/i8.png" width="250">
+<img src="images/i9.png" width="250">
+</p>
+
 ---
 
 ## ماذا ستجد داخل التطبيق؟
