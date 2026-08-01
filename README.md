@@ -21,17 +21,17 @@
 <p align="center">
 <img src="images/i1.png" width="250">
 <img src="images/i2.png" width="252">
-<img src="images/i6.png" width="249">
+<img src="images/i6.png" width="250">
 </p>
 
 <p align="center">
 <img src="images/i4.png" width="250">
 <img src="images/i3.png" width="250">
 <img src="images/i5.png" width="250">
-<img src="images/i9.png" width="250">
 </p>
 
 <p align="center">
+<img src="images/i9.png" width="250">
 <img src="images/i7.png" width="250">
 <img src="images/i8.png" width="250">
 </p>
