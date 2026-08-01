@@ -1,7 +1,7 @@
 # BytePC
 
 <p align="center">
-<img src="images/iconB.png" width="50%">
+<img src="images/iconB.png" width="53%">
 </p>
 
 ---
