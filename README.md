@@ -6,6 +6,14 @@
 
 ---
 
+<h3>#زيد النبي صلاة 💚</h3>
+
+<div dir="rtl" align="center">
+<img src="images/زيد_النبي_صلاة.png" width="300">
+</div>
+
+---
+
 <h3>فكرة التطبيق</h3>
 
 <div dir="rtl" align="center">
@@ -92,8 +100,6 @@
 </p>
 
 ---
-
-<img src="images/زيد_النبي_صلاة.png" width="300">
 
 <h3>هل لديك فكرة تطبيق؟</h3>
 
