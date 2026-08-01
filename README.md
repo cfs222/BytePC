@@ -72,11 +72,28 @@
 <h3> معرض إضافي</h3>
 
 <p align="center">
-<img src="images/7.png" width="300">
-<img src="images/8.png" width="300">
+<img src="images/i10.png" width="300">
+<img src="images/i11.png" width="300">
+</p>
+
+<p align="center">
+<img src="images/i12.png" width="300">
+<img src="images/i13.png" width="300">
+</p>
+
+<p align="center">
+<img src="images/i14.png" width="300">
+<img src="images/i15.png" width="300">
+</p>
+
+<p align="center">
+<img src="images/i16.png" width="300">
+<img src="images/i17.png" width="300">
 </p>
 
 ---
+
+<img src="images/زيد_النبي_صلاة.png" width="300">
 
 <h3>هل لديك فكرة تطبيق؟</h3>
 
