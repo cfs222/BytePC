@@ -31,7 +31,7 @@
 <p align="center">
 <img src="images/i4.png" width="250">
 <img src="images/i5.png" width="250">
-<img src="images/6.png" width="250">
+<img src="images/i6.png" width="250">
 </p>
 
 ---
