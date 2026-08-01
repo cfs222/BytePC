@@ -1,4 +1,4 @@
-# BytePC⭐
+# BytePC ⭐
 
 <p align="center">
 <img src="images/iconB.png" width="53%">
