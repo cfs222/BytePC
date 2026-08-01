@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="images/i1.png" width="250">
-<img src="images/i2.png" width="250">
+<img src="images/i2.png" width="258">
 <img src="images/3.png" width="250">
 </p>
 
